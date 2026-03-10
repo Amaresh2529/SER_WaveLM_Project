@@ -1,0 +1,17 @@
+# Environments
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Datasets and heavy files (Don't upload audio to GitHub!)
+data/
+*.wav
+*.mp3
+
+# Saved Models
+results/
+*.pt
+*.pth
